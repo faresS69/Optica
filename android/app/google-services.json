@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454267215464",
+    "project_id": "bng-optica",
+    "storage_bucket": "bng-optica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454267215464:android:14be24fa88e868611ee5dd",
+        "android_client_info": {
+          "package_name": "com.bng.optica.bng_optica_beta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkjd5fdCwAbB2FNx_lK17aXWvnrLvrPEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
